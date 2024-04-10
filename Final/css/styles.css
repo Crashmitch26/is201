@@ -1,0 +1,43 @@
+
+        body{
+            background-color: black;
+            color:aquamarine;
+            font-family: Georgia, 'Times New Roman', Times, serif
+        }
+        h1{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+        }
+        h5{
+            test-align: center
+            font-style: italic
+        }
+        a{
+            color: blueviolet:
+        }
+        a:visited{
+            color:azure
+        }
+        img{
+           
+            padding: 3px;
+            border: 2px solid fuchsia;
+            margin: 3px;
+            display: block;
+            margin: auto;  /*centers stuff*/
+        }
+        .imgcenter{
+            display: block;
+            margin: auto;
+        }
+        .rizz{
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color:blanchedalmond;
+            background-color: orange;
+            border: dashed red;
+        }
+        .rizz:hover{
+            color:white;
+            background-color:black;
+            border: none;
+        }
